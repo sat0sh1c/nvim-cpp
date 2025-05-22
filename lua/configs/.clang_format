@@ -3,6 +3,7 @@ ColumnLimit: 80
 UseTab: Never
 IndentAccessModifiers: true
 AllowAllArgumentsOnNextLine: true
+NamespaceIndentation: All
 AlignArrayOfStructures: Right
 AlignConsecutiveAssignments:
   Enabled: true
